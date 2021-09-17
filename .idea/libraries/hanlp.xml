@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hanlp">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/chachong/hanlp" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/chachong/hanlp" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/chachong/hanlp" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/chachong/hanlp" recursive="false" type="SOURCES" />
+  </library>
+</component>
